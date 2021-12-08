@@ -1,7 +1,8 @@
 .sidebar {
-    width: 30%;
-    float: right;
-    background-color: yellow;
+    float: left;
+    width: 500px;
+    border-style: ridge;
+    background-color: chartreuse;
 }
 .img {
     float: left;
