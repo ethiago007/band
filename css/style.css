@@ -1,0 +1,19 @@
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+}
+.img {
+    float: left;
+    background-color: yellow;
+    border-style: groove;
+}
+.members {
+    background-color: red;
+    border-style: groove;
+    float: right;
+    width: 200px;
+}
+body {
+    background-color: burlywood;
+}
