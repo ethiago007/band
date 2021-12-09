@@ -34,3 +34,7 @@ a:hover {
     color: black;
 
 }
+.column {
+    width: 300px;
+    float: left;
+}
